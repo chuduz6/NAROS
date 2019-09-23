@@ -1,0 +1,11 @@
+td
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	border: thin;
+	background: ActiveBorder;
+}
+
+input
+{
+	border-bottom-style: groove;
+}
